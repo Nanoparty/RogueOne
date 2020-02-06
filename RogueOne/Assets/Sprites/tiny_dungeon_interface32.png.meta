@@ -1,0 +1,1025 @@
+fileFormatVersion: 2
+guid: 3d02b2a56fa4c3a469c01ea47dfdbef2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tiny_dungeon_interface32_0
+    21300002: tiny_dungeon_interface32_1
+    21300004: tiny_dungeon_interface32_2
+    21300006: tiny_dungeon_interface32_3
+    21300008: tiny_dungeon_interface32_4
+    21300010: tiny_dungeon_interface32_5
+    21300012: tiny_dungeon_interface32_6
+    21300014: tiny_dungeon_interface32_7
+    21300016: tiny_dungeon_interface32_8
+    21300018: tiny_dungeon_interface32_9
+    21300020: tiny_dungeon_interface32_10
+    21300022: tiny_dungeon_interface32_11
+    21300024: tiny_dungeon_interface32_12
+    21300026: tiny_dungeon_interface32_13
+    21300028: tiny_dungeon_interface32_14
+    21300030: tiny_dungeon_interface32_15
+    21300032: tiny_dungeon_interface32_16
+    21300034: tiny_dungeon_interface32_17
+    21300036: tiny_dungeon_interface32_18
+    21300038: tiny_dungeon_interface32_19
+    21300040: tiny_dungeon_interface32_20
+    21300042: tiny_dungeon_interface32_21
+    21300044: tiny_dungeon_interface32_22
+    21300046: tiny_dungeon_interface32_23
+    21300048: tiny_dungeon_interface32_24
+    21300050: tiny_dungeon_interface32_25
+    21300052: tiny_dungeon_interface32_26
+    21300054: tiny_dungeon_interface32_27
+    21300056: tiny_dungeon_interface32_28
+    21300058: tiny_dungeon_interface32_29
+    21300060: tiny_dungeon_interface32_30
+    21300062: tiny_dungeon_interface32_31
+    21300064: tiny_dungeon_interface32_32
+    21300066: tiny_dungeon_interface32_33
+    21300068: tiny_dungeon_interface32_34
+    21300070: tiny_dungeon_interface32_35
+    21300072: tiny_dungeon_interface32_36
+    21300074: tiny_dungeon_interface32_37
+    21300076: tiny_dungeon_interface32_38
+    21300078: tiny_dungeon_interface32_39
+    21300080: tiny_dungeon_interface32_40
+    21300082: tiny_dungeon_interface32_41
+    21300084: tiny_dungeon_interface32_42
+    21300086: tiny_dungeon_interface32_43
+    21300088: tiny_dungeon_interface32_44
+    21300090: tiny_dungeon_interface32_45
+    21300092: tiny_dungeon_interface32_46
+    21300094: tiny_dungeon_interface32_47
+    21300096: tiny_dungeon_interface32_48
+    21300098: tiny_dungeon_interface32_49
+    21300100: tiny_dungeon_interface32_50
+    21300102: tiny_dungeon_interface32_51
+    21300104: tiny_dungeon_interface32_52
+    21300106: tiny_dungeon_interface32_53
+    21300108: tiny_dungeon_interface32_54
+    21300110: tiny_dungeon_interface32_55
+    21300112: tiny_dungeon_interface32_56
+    21300114: tiny_dungeon_interface32_57
+    21300116: tiny_dungeon_interface32_58
+    21300118: tiny_dungeon_interface32_59
+    21300120: tiny_dungeon_interface32_60
+    21300122: tiny_dungeon_interface32_61
+    21300124: tiny_dungeon_interface32_62
+    21300126: tiny_dungeon_interface32_63
+    21300128: tiny_dungeon_interface32_64
+    21300130: tiny_dungeon_interface32_65
+    21300132: tiny_dungeon_interface32_66
+    21300134: tiny_dungeon_interface32_67
+    21300136: tiny_dungeon_interface32_68
+    21300138: tiny_dungeon_interface32_69
+    21300140: tiny_dungeon_interface32_70
+    21300142: tiny_dungeon_interface32_71
+    21300144: tiny_dungeon_interface32_72
+    21300146: tiny_dungeon_interface32_73
+    21300148: tiny_dungeon_interface32_74
+    21300150: tiny_dungeon_interface32_75
+    21300152: tiny_dungeon_interface32_76
+    21300154: tiny_dungeon_interface32_77
+    21300156: tiny_dungeon_interface32_78
+    21300158: tiny_dungeon_interface32_79
+    21300160: tiny_dungeon_interface32_80
+    21300162: tiny_dungeon_interface32_81
+    21300164: tiny_dungeon_interface32_82
+    21300166: tiny_dungeon_interface32_83
+    21300168: tiny_dungeon_interface32_84
+    21300170: tiny_dungeon_interface32_85
+    21300172: tiny_dungeon_interface32_86
+    21300174: tiny_dungeon_interface32_87
+    21300176: tiny_dungeon_interface32_88
+    21300178: tiny_dungeon_interface32_89
+    21300180: tiny_dungeon_interface32_90
+    21300182: tiny_dungeon_interface32_91
+    21300184: tiny_dungeon_interface32_92
+    21300186: tiny_dungeon_interface32_93
+    21300188: tiny_dungeon_interface32_94
+    21300190: tiny_dungeon_interface32_95
+    21300192: tiny_dungeon_interface32_96
+    21300194: tiny_dungeon_interface32_97
+    21300196: tiny_dungeon_interface32_98
+    21300198: tiny_dungeon_interface32_99
+    21300200: tiny_dungeon_interface32_100
+    21300202: tiny_dungeon_interface32_101
+    21300204: tiny_dungeon_interface32_102
+    21300206: tiny_dungeon_interface32_103
+    21300208: tiny_dungeon_interface32_104
+    21300210: tiny_dungeon_interface32_105
+    21300212: tiny_dungeon_interface32_106
+    21300214: tiny_dungeon_interface32_107
+    21300216: tiny_dungeon_interface32_108
+    21300218: tiny_dungeon_interface32_109
+    21300220: tiny_dungeon_interface32_110
+    21300222: tiny_dungeon_interface32_111
+    21300224: tiny_dungeon_interface32_112
+    21300226: tiny_dungeon_interface32_113
+    21300228: tiny_dungeon_interface32_114
+    21300230: tiny_dungeon_interface32_115
+    21300232: tiny_dungeon_interface32_116
+    21300234: tiny_dungeon_interface32_117
+    21300236: tiny_dungeon_interface32_118
+    21300238: tiny_dungeon_interface32_119
+    21300240: tiny_dungeon_interface32_120
+    21300242: tiny_dungeon_interface32_121
+    21300244: tiny_dungeon_interface32_122
+    21300246: tiny_dungeon_interface32_123
+    21300248: tiny_dungeon_interface32_124
+    21300250: tiny_dungeon_interface32_125
+    21300252: tiny_dungeon_interface32_126
+    21300254: tiny_dungeon_interface32_127
+    21300256: tiny_dungeon_interface32_128
+    21300258: tiny_dungeon_interface32_129
+    21300260: tiny_dungeon_interface32_130
+    21300262: tiny_dungeon_interface32_131
+    21300264: tiny_dungeon_interface32_132
+    21300266: tiny_dungeon_interface32_133
+    21300268: tiny_dungeon_interface32_134
+    21300270: tiny_dungeon_interface32_135
+    21300272: tiny_dungeon_interface32_136
+    21300274: tiny_dungeon_interface32_137
+    21300276: tiny_dungeon_interface32_138
+    21300278: tiny_dungeon_interface32_139
+    21300280: tiny_dungeon_interface32_140
+    21300282: tiny_dungeon_interface32_141
+    21300284: tiny_dungeon_interface32_142
+    21300286: tiny_dungeon_interface32_143
+    21300288: tiny_dungeon_interface32_144
+    21300290: tiny_dungeon_interface32_145
+    21300292: tiny_dungeon_interface32_146
+    21300294: tiny_dungeon_interface32_147
+    21300296: tiny_dungeon_interface32_148
+    21300298: tiny_dungeon_interface32_149
+    21300300: tiny_dungeon_interface32_150
+    21300302: tiny_dungeon_interface32_151
+    21300304: tiny_dungeon_interface32_152
+    21300306: tiny_dungeon_interface32_153
+    21300308: tiny_dungeon_interface32_154
+    21300310: tiny_dungeon_interface32_155
+    21300312: tiny_dungeon_interface32_156
+    21300314: tiny_dungeon_interface32_157
+    21300316: tiny_dungeon_interface32_158
+    21300318: tiny_dungeon_interface32_159
+    21300320: tiny_dungeon_interface32_160
+    21300322: tiny_dungeon_interface32_161
+    21300324: tiny_dungeon_interface32_162
+    21300326: tiny_dungeon_interface32_163
+    21300328: tiny_dungeon_interface32_164
+    21300330: tiny_dungeon_interface32_165
+    21300332: tiny_dungeon_interface32_166
+    21300334: tiny_dungeon_interface32_167
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe8a69ca89c9284497b8968ce4cda1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 422
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6136affa6617e56478721c36bc4a25bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 280
+        width: 96
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c797e0009946f9643a6788b114f30d6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 226
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc09c9c1bba1df4f9a0c6b9d9d795ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 228
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bbb767e2e8e7c4ca5b366839f1f277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 226
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257fdf5d06d0a4942ad91ad27910230f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 228
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2ad2d1e3ded1f4eaab79a6658bf5fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 226
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d0de7e6a51b4a49886bd968a93ce74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 226
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8a4d976cde3974786a2527e4414fb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 226
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b589d8738cc8934e820c30be469336a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 226
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1804aa78e5e603741963255d2c69b895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 226
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7e674a92643b847a5c9ceaced90a69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 236
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef86ddbeb544744399f3ca26e8736c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 230
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f8c0ed98ae6c3408ff829755f87ea8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 226
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42af09c32c97bcc4fadf516635933ade
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_15
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 226
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8855e3792b6097a40a82917f5c1b4eb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_16
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 226
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e607dfdb5e2e50b4b8ad19c1f7269e89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 226
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58c0986ac18303408f759536981b91f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1292dc5b4b79594da6434b129578d61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 194
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572c1664ba7d83d4b81830319ff48055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 192
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff03cfccb7fbbd4384581f308deb1df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 194
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6616488ca171c26479feccd1826b7dd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f328a92e1b5d153418b572bee31b5401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93c1fb2038e97a44bb89e0c038f599c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 192
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0df0e4c897baa4f90401f5f51f2e4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a74c1b8de3c93942bbbdb4e75d1ecf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 202
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b647ea9cd89262b40b10cf94e59ecbb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_27
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 208
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36875ea909f968f4d87ee4090f11b36b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 202
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20661203301aa324a8457dd7567301d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 196
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f7928f15f784f439a06931f2f875b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 128
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86735d9bfe8e0db478d02db8102c511c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_31
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 192
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cce07c055940b45a65524ee49cb20d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 326
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1c640e1255b354c86c378e9b401840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_33
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 186
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a889be48f4448a647892aeaa7ce84f27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_34
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 154
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e30f1ca6b162344974255fce64ca65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_35
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 142
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b196538fcd8ec641b0238d504aa11f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dungeon_interface32_36
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c791e19a3f57946bf6d348d6c9ba39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b518618a2131b0543863652b75d74e60
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
