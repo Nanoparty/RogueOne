@@ -10,9 +10,9 @@ A RogueLike 2D game with randomly generated dungeons. Try to climb the tower and
 Download the application for free on Windows from: https://dispixel.itch.io/rogueone
 
 <p align="center">
-  <img src="Screenshots/1.png" />
-  <img src="Screenshots/2.png" />
-  <img src="Screenshots/3.png" />
+  <img src="Promo.jpg" />
+  <img src="image_007_0000.jpg" />
+  <img src="image_008_0000.jpg" />
 </p>
 
 ## Features
