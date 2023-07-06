@@ -1,6 +1,6 @@
 # RogueOne
 
-A RogueLike 2D game with randomly generated dungeons. Try to climb the tower and escape. Which will you succumb to, the Monsters, or the Hunger?
+A RogueLike 2D game with randomly generated dungeons. Try to climb the tower and escape. Which will you succumb to first, the Monsters, or the Hunger?
 
 ![version](https://img.shields.io/badge/Version-1.0-green)
 ![engine](https://img.shields.io/badge/Engine-Unity-blue)
